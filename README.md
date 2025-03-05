@@ -23,4 +23,4 @@
  ![](https://img.shields.io/badge/umi-000000?style=plastic&logo=umami&logoColor=08AEEA)
 ![](https://img.shields.io/badge/hadoop-000000?style=plastic&logo=apachehadoop&logoColor=yellow)
 ## ✨Github Stats
-<img align="" height="180px" src="https://替换你的domains/api?username=Zero-Vec&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"/><img align="" height="180px" src="https://替换你的domains/api/top-langs/?username=Zero-Vec&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn"/>
+<img align="" height="180px" src="https://github-readme-stats.vercel.app/api?username=Zero-Vec&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn"/><img align="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zero-Vec&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn"/>
